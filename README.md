@@ -1,80 +1,75 @@
-<!-- Centered Header with Premium Styling -->
+<!-- Centered Header with Ultra-Aesthetic Styling -->
 <div align="center">
-  <!-- Typing Animation Header (Replace username if you change it) -->
+  
+  <!-- 1. SABSE PAHLE APKA NAAM (Aesthetic Gradient Name Banner) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=1&pause=1&color=58A6FF&center=true&vCenter=true&width=600&lines=MUKESH+GAUTAM" alt="Mukesh Gautam" />
+
+  <!-- Subtitle Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mukesh+Gautam+👋;Passionate+Web+Developer;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=500&lines=⚡+Full-Stack+Web+Developer;🚀+Open+Source+Enthusiast;✨+Crafting+Digital+Experiences" alt="Typing SVG" />
   </a>
-
-  <p align="center" style="font-size: 1.1em; color: #8b949e; margin-top: 10px;">
-    <strong>Crafting clean, scalable, and user-centric web solutions ✨</strong>
-  </p>
-
-  <!-- Social & Contact Badges -->
-  <p align="center">
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://linkedin.com/in/your-profile">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
 
   <br />
 
-  <!-- Tech Stack with Neon Glow Styling -->
-  <h3>🚀 Tech Stack & Tools</h3>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <!-- Aesthetic Minimal Social Icons with Glow -->
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+
 </div>
-
-<br />
-<br />
-
----
-
-## 📖 About Me
-
-<div style="border-left: 4px solid #58a6ff; background-color: #161b22; padding: 15px; border-radius: 0 8px 8px 0; margin: 20px 0;">
-  <p style="margin: 0; line-height: 1.6; color: #c9d1d9;">
-    I am a dedicated <strong>Software Developer</strong> driven by curiosity and the thrill of building impactful digital experiences. I specialize in crafting clean, robust code and turning complex ideas into seamless, user-centric web solutions.
-  </p>
-</div>
-
-### 🛠️ Core Focus & Strengths
-
-- 💻 **Web Engineering** — Designing modern, scalable, and responsive web applications from scratch.
-- ⚡ **Core Technologies** — Deep diving into modern JavaScript ecosystem, semantic HTML, and advanced responsive layouts.
-- 🌐 **Open Source** — Actively learning, contributing to community projects, and embracing collaborative engineering.
-- 📈 **Growth Mindset** — Staying ahead of the curve by continuously adopting emerging frameworks and engineering best practices.
 
 <br />
 
 ---
 
-## 📊 GitHub Analytics
+## 🌌 About Me
 
-<!-- Organized Grid Layout for Cards -->
 <table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=mg831741&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" alt="Mukesh's GitHub Stats" width="100%" />
+    <td width="60%" style="border: none; vertical-align: top;">
+      <p style="font-size: 1.1em; line-height: 1.6; color: #c9d1d9;">
+        I am a dedicated <strong>Software Developer</strong> driven by curiosity and the thrill of building impactful digital experiences. I specialize in crafting clean, robust code and turning complex ideas into seamless, user-centric web solutions.
+      </p>
+      <br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mg831741&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" alt="Top Languages" width="100%" />
+    <td width="40%" align="center" style="border: none; vertical-align: middle;">
+      <!-- Aesthetic Tech Illustration -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9sc3dnb3BvY3Z0bnFpaXF0NXBlZndpZ3N5Zmd0b3Z0ZndpZnBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="180px" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
+---
+
+## 🛠️ Core Focus & Capabilities
+
+- 💻 **Web Engineering** — Designing modern, scalable, and responsive web applications from scratch.
+- ⚡ **Core Technologies** — Deep diving into modern JavaScript ecosystem and advanced layouts.
+- 🌐 **Open Source** — Actively learning, contributing, and embracing collaborative engineering.
+
+---
+
+## 📊 Analytics & Performance
+
+<!-- Premium Minimalist Cards Grid -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mg831741&show_icons=true&theme=calm&border_radius=10&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mg831741&layout=compact&theme=calm&border_radius=10&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mg831741&theme=calm&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+</p>
+
 <br />
 
-<!-- Interactive GitHub Streak Card -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mg831741&theme=tokyonight&hide_border=false&border_radius=8" alt="GitHub Streak" width="100%" />
-</div>
-
-<br />
-<div align="center" style="color: #8b949e; font-size: 0.9em;">
-  ⭐️ From India 🇮🇳
+  <img src="https://komarev.com/normal-badge/?username=mg831741&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
